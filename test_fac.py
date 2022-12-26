@@ -1,3 +1,5 @@
+import pytest
+
 from Factorial import factorial
 
 def test_fac_1():
